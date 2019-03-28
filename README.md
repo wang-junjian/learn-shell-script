@@ -1,2 +1,1 @@
-# learn-shell-script
-学习 Shell Script
+# 学习 Shell Script
